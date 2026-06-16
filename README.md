@@ -52,7 +52,7 @@ ORDER BY Revenue DESC;
 
 ### Result
 
-![Products Revenue](products-revenue.png)
+![Products Revenue](products- revenue.png)
 
 ---
 
