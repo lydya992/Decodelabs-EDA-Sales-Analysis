@@ -172,4 +172,4 @@ ORDER BY AverageOrderValue DESC;
 
 Aspiring Data Analyst | MSc Digital Health
 
-Decodelabs Data Analytics Internship Project
+Decodelabs Data Analytics Project
